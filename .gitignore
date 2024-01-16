@@ -1,0 +1,13 @@
+# Compiled Object files
+*.o
+
+# Executables
+*.exe
+*.bin
+
+# Bin
+/bin
+
+# vs
+/.vs
+/SFML
